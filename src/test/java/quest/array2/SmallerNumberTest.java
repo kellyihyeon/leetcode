@@ -1,9 +1,8 @@
-package test.quest.array2;
+package quest.array2;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-import quest.array2.SmallerNumber;
 
 class SmallerNumberTest {
 

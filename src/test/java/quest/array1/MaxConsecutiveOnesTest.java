@@ -1,9 +1,8 @@
-package test.quest.array1;
+package quest.array1;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
-import quest.array1.MaxConsecutiveOnes;
 
 class MaxConsecutiveOnesTest {
 
