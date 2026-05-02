@@ -1,11 +1,10 @@
-package test.quest.array1;
+package quest.array1;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.stream.Stream;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import quest.array1.ShuffleTheArray;
 
 class ShuffleTheArrayTest {
 
